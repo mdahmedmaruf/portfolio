@@ -13,9 +13,9 @@ export default function ResumePage() {
                         <em>Full-stack developer</em>
                     </h1>
                 </div>
-                <button type='button' onClick={() => window.print()}>
+                {/* <button type='button' onClick={() => window.print()}>
                     Save as PDF ↓
-                </button>
+                </button> */}
             </section>
             <div className='resume-layout'>
                 <section>
